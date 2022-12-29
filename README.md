@@ -8,9 +8,9 @@
 
 <h1>Retos y soluciones </h1>
 
-| # | Description |  Difficulty  |  Solution  |
-|---|-------------|:------------:|:----------:|
-|  1  | <b>Automating Christmas gift wrapping!</b> <br /> The elves bought a giftwrapping machine this year. But it's not programmed! We need to create an algorithm that helps it in the task. |    🟩    | [View](./Challenge/Desafio01.js) |
+| # | Description |  Difficulty  |  Challenge  |  Solution  |
+|---|-------------|:------------:|:-----------:|:----------:|
+|  1  | <b>Automating Christmas gift wrapping!</b> <br /> The elves bought a giftwrapping machine this year. But it's not programmed! We need to create an algorithm that helps it in the task. |    🟩    | [View](https://adventjs.dev/es/challenges/2022/1) | [View](./Challenge/Desafio01.js) |
 
  
 [![](https://img.shields.io/badge/-%40midudev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/midudev)
