@@ -8,13 +8,11 @@
 
 <h1>Retos y soluciones </h1>
 
+| # | Description |  Difficulty  |  Solution  |
+|---|-------------|:------------:|:----------:|
+|  1  | <b>Automating Christmas gift wrapping!</b> <br /> The elves bought a giftwrapping machine this year. But it's not programmed! We need to create an algorithm that helps it in the task. |    🟩    | [View](./Challenge/Desafio01.js) |
 
-
-<div align="center">
-    <h3>Animate a resolvserlos! 👉 <a target="_blank" href="https://adventjs.dev"><img src="https://i.imgur.com/T88xjI1.png" width="100"> </a></h3>
-</div>
-
-
+ 
 [![](https://img.shields.io/badge/-%40midudev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/midudev)
 [![](https://img.shields.io/badge/-%40midudev-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/midudev)
 [![](https://img.shields.io/badge/-%40midudev-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/midudev)
