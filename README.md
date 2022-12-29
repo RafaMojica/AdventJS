@@ -6,7 +6,7 @@
     <img width="300" src="https://i.imgur.com/cA63wKc.png" />
 </div>
 
-## Retos y soluciones
+## Challenges and solutions
 
 | # | Description |  Difficulty  |  Challenge  |  Solution  |
 |---|-------------|:------------:|:-----------:|:----------:|
