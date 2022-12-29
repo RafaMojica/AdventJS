@@ -1,4 +1,4 @@
-<h1 align="center">🎄 Advent JS Navideño 2022</h1>
+<h1 align="center">🎄 Advent JS Christmas 2022</h1>
 
 <div align="center">
     <h3>🎁 24 DAYS, 24 CODING CHALLENGES 🎁</h3>
