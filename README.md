@@ -15,10 +15,10 @@
 |  01  | <img src="https://i.imgur.com/5zLFcNf.png" width="100" height="80" /> | Automating Christmas gift wrapping! |    🟢    | [View](https://adventjs.dev/es/challenges/2022/1) | [View](./challenges/reto01.js) |
 |  02  | <img src="https://i.imgur.com/kIxSKDL.png" width="100" height="80" /> | Nobody wants to work overtime |    🟢    | [View](https://adventjs.dev/es/challenges/2022/2) | [View](./challenges/reto02.js) |
 |  03  | <img src="https://i.imgur.com/XCyw0U8.png" width="100" height="80" /> | ¿How many gift boxers can Santa Claus carry? |    🟢    | [View](https://adventjs.dev/es/challenges/2022/3) | [View](./challenges/reto03.js) |
-|  04  | <img src="https://i.imgur.com/L85pHE7.png" width="100" height="80" /> | A box inside another box and another... |    🟠    | [View](https://adventjs.dev/es/challenges/2022/4) | Developing |
+|  04  | <img src="https://i.imgur.com/L85pHE7.png" width="100" height="80" /> | A box inside another box and another... |    🟠    | [View](https://adventjs.dev/es/challenges/2022/4) | [View](./challenges/reto04.js) |
 |  05  | <img src="https://i.imgur.com/y7Z0k6w.png" width="100" height="80" /> | Optimizing Santa is trips |    🔴    | [View](https://adventjs.dev/es/challenges/2022/5) | Developing |
 |  06  | <img src="https://i.imgur.com/hRsRMt1.png" width="100" height="80" /> | Creating Christmas decorations |    🟠    | [View](https://adventjs.dev/es/challenges/2022/6) | Developing |
-|  07  | <img src="https://i.imgur.com/SVnRN4G.png" width="100" height="80" /> | Taking inventory of gifts |    🟢    | [View](https://adventjs.dev/es/challenges/2022/7) | Developing |
+|  07  | <img src="https://i.imgur.com/SVnRN4G.png" width="100" height="80" /> | Taking inventory of gifts |    🟢    | [View](https://adventjs.dev/es/challenges/2022/7) | [View](./challenges/reto07.js) |
 |  08  | <img src="https://i.imgur.com/samqqgX.png" width="100" height="80" /> | We need a mechanic! |    🟠    | [View](https://adventjs.dev/es/challenges/2022/8) | Developing |
 |  09  | <img src="https://i.imgur.com/0mkkbXx.png" width="100" height="80" /> | The crazy Christmas lights |    🟢    | [View](https://adventjs.dev/es/challenges/2022/9) | Developing |
 |  10  | <img src="https://i.imgur.com/Z8CTPPx.png" width="100" height="80" /> | Jumping from Santa is sleigh |    🟠    | [View](https://adventjs.dev/es/challenges/2022/10) | Developing |
