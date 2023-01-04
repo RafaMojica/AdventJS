@@ -5,7 +5,7 @@ function getFilesToBackup(lastBackup, changes) {
     if(change[1] > lastBackup) idBackup.push(change[0])
   })
 
-  idBackup = [...new Set([...idBackup])].sort((a,b)=> a - b)
+  idBackup = [...new Set(idBackup)].sort((a,b)=> a - b)
 
   return idBackup
 }

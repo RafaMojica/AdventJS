@@ -29,7 +29,7 @@
 |  15  | <img src="https://i.imgur.com/10tpmKJ.png" width="100" height="80" /> | Decorating the Christmas tree |    🟠    | [View](https://adventjs.dev/es/challenges/2022/15) | Developing |
 |  16  | <img src="https://i.imgur.com/7wzoH9Q.png" width="100" height="80" /> | Arranging Santa is letters |    🔴    | [View](https://adventjs.dev/es/challenges/2022/16) | Developing |
 |  17  | <img src="https://i.imgur.com/1d7NZ33.png" width="100" height="80" /> | Carrying the gifts in sacks |    🟠    | [View](https://adventjs.dev/es/challenges/2022/17) | Developing |
-|  18  | <img src="https://i.imgur.com/5E0rjbV.png" width="100" height="80" /> | We are out of ink! |    🟢    | [View](https://adventjs.dev/es/challenges/2022/18) | Developing |
+|  18  | <img src="https://i.imgur.com/5E0rjbV.png" width="100" height="80" /> | We are out of ink! |    🟢    | [View](https://adventjs.dev/es/challenges/2022/18) | [View](./challenges/reto18.js) |
 |  19  | <img src="https://i.imgur.com/hbBuJZH.png" width="100" height="80" /> | Sorting the gifts |    🟢    | [View](https://adventjs.dev/es/challenges/2022/19) | Developing |
 |  20  | <img src="https://i.imgur.com/YWBwVY2.png" width="100" height="80" /> | More challenging trips |    🔴    | [View](https://adventjs.dev/es/challenges/2022/20) | Developing |
 |  21 | <img src="https://i.imgur.com/9eyxAFH.png" width="100" height="80" /> | Creating the gift table |    🟠    | [View](https://adventjs.dev/es/challenges/2022/21) | Developing |
