@@ -24,7 +24,7 @@
 |  10  | <img src="https://i.imgur.com/Z8CTPPx.png" width="100" height="80" /> | Jumping from Santa is sleigh |    🟠    | [View](https://adventjs.dev/es/challenges/2022/10) | Developing |
 |  11  | <img src="https://i.imgur.com/pjzw0mA.png" width="100" height="80" /> | Santa Claus is Scrum Master |    🔴    | [View](https://adventjs.dev/es/challenges/2022/11) | Developing |
 |  12  | <img src="https://i.imgur.com/Iy7FnZH.png" width="100" height="80" /> | Electric sleds, wow! |    🟠    | [View](https://adventjs.dev/es/challenges/2022/12) | Developing |
-|  13  | <img src="https://i.imgur.com/MeJZo6u.png" width="100" height="80" /> | Backup Santa is files |    🟢    | [View](https://adventjs.dev/es/challenges/2022/13) | Developing |
+|  13  | <img src="https://i.imgur.com/MeJZo6u.png" width="100" height="80" /> | Backup Santa is files |    🟢    | [View](https://adventjs.dev/es/challenges/2022/13) | [View](./challenges/reto13.js) |
 |  14  | <img src="https://i.imgur.com/WC5GQN6.png" width="100" height="80" /> | The best path |    🟠    | [View](https://adventjs.dev/es/challenges/2022/14) | Developing |
 |  15  | <img src="https://i.imgur.com/10tpmKJ.png" width="100" height="80" /> | Decorating the Christmas tree |    🟠    | [View](https://adventjs.dev/es/challenges/2022/15) | Developing |
 |  16  | <img src="https://i.imgur.com/7wzoH9Q.png" width="100" height="80" /> | Arranging Santa is letters |    🔴    | [View](https://adventjs.dev/es/challenges/2022/16) | Developing |
