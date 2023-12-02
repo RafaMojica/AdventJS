@@ -2,13 +2,6 @@
     <img width="500" src="https://i.imgur.com/EqNt0FH.png"/>
 </div>
 
-#
-
-<b>Created by: </b>
-[![](https://img.shields.io/badge/-%40midudev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/midudev)
-[![](https://img.shields.io/badge/-%40midudev-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/midudev)
-[![](https://img.shields.io/badge/-%40midudev-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/midudev)
-
 <div align="center">
     <h3> 🎁 24 days - 24 coding challenges 🎁</h3>
 </div>
@@ -71,3 +64,11 @@
 | 01  | <img src="https://i.imgur.com/Ws3lq6x.png" width="80" height="80"/> | First Gift Repeated! |     🟢     | [View](https://adventjs.dev/challenges/2023/1) | [View](./Challenges-2023/Day-01/) |
 
 </details>
+
+##
+
+<b>Created by: </b>
+[![](https://img.shields.io/badge/-%40midudev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/midudev)
+[![](https://img.shields.io/badge/-%40midudev-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/midudev)
+[![](https://img.shields.io/badge/-%40midudev-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/midudev)
+
