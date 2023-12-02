@@ -3,8 +3,8 @@ function wrapping(gifts) {
 
   for (const gift of gifts) {
     let paper = "*".repeat(gift.length + 2);
-    let regalo = `${paper}\n*${gift}*\n${paper}`;
-    wrapped.push(regalo);
+    let gif = `${paper}\n*${gift}*\n${paper}`;
+    wrapped.push(gif);
   }
 
   return wrapped;
