@@ -62,6 +62,7 @@
 |  #  |                                 Img                                 |        Title         | Difficulty |                   Challenge                    |             Solution              |
 | :-: | :-----------------------------------------------------------------: | :------------------: | :--------: | :--------------------------------------------: | :-------------------------------: |
 | 01  | <img src="https://i.imgur.com/Ws3lq6x.png" width="80" height="80"/> | First Gift Repeated! |     🟢     | [View](https://adventjs.dev/challenges/2023/1) | [View](./Challenges-2023/Day-01/) |
+| 02  | <img src="https://i.imgur.com/akMUPrA.png" width="50" height="80"/> | We star the factory |     🟢     | [View](https://adventjs.dev/challenges/2023/2) | [View](./Challenges-2023/Day-02/) |
 
 </details>
 
