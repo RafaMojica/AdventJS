@@ -64,7 +64,7 @@
 | 01  | <img src="https://i.imgur.com/Ws3lq6x.png" width="80" height="80"/> |    First Gift Repeated!     |     🟢     | [View](https://adventjs.dev/challenges/2023/1) | [View](./Challenges-2023/Day-01/) |
 | 02  | <img src="https://i.imgur.com/akMUPrA.png" width="50" height="80"/> |     We star the factory     |     🟢     | [View](https://adventjs.dev/challenges/2023/2) | [View](./Challenges-2023/Day-02/) |
 | 03  | <img src="https://i.imgur.com/FjxRHie.png" width="70" height="80"/> |       The naughty elf       |     🟢     | [View](https://adventjs.dev/challenges/2023/3) | [View](./Challenges-2023/Day-03/) |
-| 04  | <img src="https://i.imgur.com/IfV7Hb4.png" width="70" height="80"/> | Turn the parentheses around |     🟢     | [View](https://adventjs.dev/challenges/2023/4) | [View](./Challenges-2023/Day-04/) |
+| 04  | <img src="https://i.imgur.com/IfV7Hb4.png" width="70" height="80"/> | Turn the parentheses around |     🟠     | [View](https://adventjs.dev/challenges/2023/4) | [View](./Challenges-2023/Day-04/) |
 
 </details>
 
