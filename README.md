@@ -59,12 +59,22 @@
 
 <summary>🕹️ Challenger</summary>
 
-|  #  |                                 Img                                 |            Title            | Difficulty |                   Challenge                    |             Solution              |
-| :-: | :-----------------------------------------------------------------: | :-------------------------: | :--------: | :--------------------------------------------: | :-------------------------------: |
-| 01  | <img src="https://i.imgur.com/Ws3lq6x.png" width="80" height="80"/> |    First Gift Repeated!     |     🟢     | [View](https://adventjs.dev/challenges/2023/1) | [View](./Challenges-2023/Day-01/) |
-| 02  | <img src="https://i.imgur.com/akMUPrA.png" width="50" height="80"/> |     We star the factory     |     🟢     | [View](https://adventjs.dev/challenges/2023/2) | [View](./Challenges-2023/Day-02/) |
-| 03  | <img src="https://i.imgur.com/FjxRHie.png" width="70" height="80"/> |       The naughty elf       |     🟢     | [View](https://adventjs.dev/challenges/2023/3) | [View](./Challenges-2023/Day-03/) |
-| 04  | <img src="https://i.imgur.com/IfV7Hb4.png" width="70" height="80"/> | Turn the parentheses around |     🟠     | [View](https://adventjs.dev/challenges/2023/4) | [View](./Challenges-2023/Day-04/) |
+|  #  |                                 Img                                 |             Title             | Difficulty |                    Challenge                    |             Solution              |
+| :-: | :-----------------------------------------------------------------: | :---------------------------: | :--------: | :---------------------------------------------: | :-------------------------------: |
+| 01  | <img src="https://i.imgur.com/Ws3lq6x.png" width="70" height="80"/> |     First Gift Repeated!      |     🟢     | [View](https://adventjs.dev/challenges/2023/1)  | [View](./Challenges-2023/Day-01/) |
+| 02  | <img src="https://i.imgur.com/akMUPrA.png" width="50" height="80"/> |      We star the factory      |     🟢     | [View](https://adventjs.dev/challenges/2023/2)  | [View](./Challenges-2023/Day-02/) |
+| 03  | <img src="https://i.imgur.com/FjxRHie.png" width="70" height="80"/> |        The naughty elf        |     🟢     | [View](https://adventjs.dev/challenges/2023/3)  | [View](./Challenges-2023/Day-03/) |
+| 04  | <img src="https://i.imgur.com/IfV7Hb4.png" width="60" height="80"/> |  Turn the parentheses around  |     🟠     | [View](https://adventjs.dev/challenges/2023/4)  | [View](./Challenges-2023/Day-04/) |
+| 05  | <img src="https://i.imgur.com/NseWY0h.png" width="100" height="80"/> |     Santa is cyber truck      |     🟠     | [View](https://adventjs.dev/challenges/2023/5)  | [View](./Challenges-2023/Day-05/) |
+| 06  | <img src="https://i.imgur.com/pgAVBks.png" width="50" height="80"/> |     The reindeer on trial     |     🟢     | [View](https://adventjs.dev/challenges/2023/6)  | [View](./Challenges-2023/Day-06/) |
+| 07  | <img src="https://i.imgur.com/k2lRoLo.png" width="70" height="80"/> |         The 3D boxes          |     🟢     | [View](https://adventjs.dev/challenges/2023/7)  | [View](./Challenges-2023/Day-07/) |
+| 08  | <img src="https://i.imgur.com/q47HflC.png" width="60" height="80"/> |     Sorting the warehouse     |     🟠     | [View](https://adventjs.dev/challenges/2023/8)  | [View](./Challenges-2023/Day-08/) |
+| 09  | <img src="https://i.imgur.com/rEKwlZ6.png" width="60" height="80"/> |       Switch the lights       |     🟢     | [View](https://adventjs.dev/challenges/2023/9)  | [View](./Challenges-2023/Day-09/) |
+| 10  | <img src="https://i.imgur.com/yMUOI8P.png" width="70" height="80"/> | Create you own christmas tree |     🟢     | [View](https://adventjs.dev/challenges/2023/10) | [View](./Challenges-2023/Day-10/) |
+| 11  | <img src="https://i.imgur.com/KzurHz7.png" width="60" height="80"/> |      The studious elves       |     🟠     | [View](https://adventjs.dev/challenges/2023/11) | [View](./Challenges-2023/Day-11/) |
+| 12  | <img src="https://i.imgur.com/RQUjhnQ.png" width="80" height="80"/> |      Is it a valid copy?      |     🟠     | [View](https://adventjs.dev/challenges/2023/12) | [View](./Challenges-2023/Day-12/) |
+| 13  | <img src="https://i.imgur.com/68IK29B.png" width="35" height="80"/> |     Calculating the time      |     🟢     | [View](https://adventjs.dev/challenges/2023/13) | [View](./Challenges-2023/Day-13/) |
+| 14  | <img src="https://i.imgur.com/nypQfJm.png" width="60" height="80"/> |        Avoid the alarm        |     🟠     | [View](https://adventjs.dev/challenges/2023/14) | [View](./Challenges-2023/Day-14/) |
 
 </details>
 
