@@ -22,4 +22,4 @@ As you see, the wrapping paper wraps the string. Above and below, so as not to l
 
 **Note:** The character **\n** represents a line break.
 
-**Eye!** Make sure you put the correct number of *to completely wrap the string. But not too many. Only those necessary to cover the string.
+**Eye!** Make sure you put the correct number of \*to completely wrap the string. But not too many. Only those necessary to cover the string.

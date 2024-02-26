@@ -26,6 +26,7 @@ const boxes = [
 
 fitsInOneBox(boxes) // false
 ```
+
 In the example above, the smaller box fits into the middle box, but the middle box does not fit into the larger box. Therefore, it is not possible to pack all the boxes into one.
 
 Please note that the boxes may not come in order:
@@ -39,6 +40,7 @@ const boxes = [
 
 fitsInOneBox(boxes) // true
 ```
+
 In the example above, the first box fits in the third, and the third in the second. Therefore, it is possible to pack all the boxes into one.
 
 Things to keep in mind:
