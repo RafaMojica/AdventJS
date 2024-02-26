@@ -1,6 +1,6 @@
 <h2 align="center">Create you own christmas tree</h2>
 
-What an idea *Sam Elf man* has had! He wants to offer a service that creates a **customized Christmas tree** 🎄 in a matter of seconds.
+What an idea _Sam Elf man_ has had! He wants to offer a service that creates a **customized Christmas tree** 🎄 in a matter of seconds.
 
 To create it, we are given a **string to form the tree** and a **number that indicates its height**.
 
@@ -18,7 +18,7 @@ For example, if we receive the string "123" and the number `4` as height, we wou
    |
 ```
 
-If we receive the string *@o and the number 3, the tree we should return is:
+If we receive the string \*@o and the number 3, the tree we should return is:
 
 ```sh
   *
