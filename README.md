@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+   <img src="https://img.shields.io/badge/Challenge created by-Midudev-fdc43f?)](https://2022.adventjs.dev/es"/>
+</div>
+
+<div align="center">
     <h3> 🎁 24 days - 24 coding challenges 🎁</h3>
 </div>
 
@@ -12,7 +16,7 @@
 
 <b>Difficulty: </b> 🟢 Easy | 🟠 Medium | 🔴 Hard
 
-[![](https://img.shields.io/badge/-WebSide::AdventJS::2022-fdc43f?style=flat-square&logo=red&logoColor=black)](https://2022.adventjs.dev/es)
+[![](https://img.shields.io/badge/Website-Adventjs.2022-fdc43f?)](https://2022.adventjs.dev/es)
 
 <details hide>
 
@@ -53,7 +57,7 @@
 
 <b>Difficulty: </b> 🟢 Easy | 🟠 Medium | 🔴 Hard
 
-[![](https://img.shields.io/badge/-WebSide::AdventJS::2023-fdc43f?style=flat-square&logo=red&logoColor=black)](https://adventjs.dev/)
+[![](https://img.shields.io/badge/Website-Adventjs.2023-fdc43f?)](https://adventjs.dev/)
 
 <details hide>
 
@@ -88,10 +92,3 @@
 | 25  | <img src="https://i.imgur.com/EvbicS0.png" width="180" height="80"/> |     Calculating distances     |     🟠     | [View](./Challenges-2023/Day-25) |                  Developing                  |
 
 </details>
-
-##
-
-<b>Created by: </b>
-[![](https://img.shields.io/badge/-%40midudev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/midudev)
-[![](https://img.shields.io/badge/-%40midudev-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/midudev)
-[![](https://img.shields.io/badge/-%40midudev-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/midudev)
