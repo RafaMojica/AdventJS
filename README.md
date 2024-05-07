@@ -1,11 +1,7 @@
+<img src="https://img.shields.io/badge/Challenge created by-Midudev-fdc43f?)](https://2022.adventjs.dev/es"/>
+
 <div align="center">
     <img width="500" src="https://i.imgur.com/EqNt0FH.png"/>
-</div>
-
-###
-
-<div align="center">
-   <img src="https://img.shields.io/badge/Challenge created by-Midudev-fdc43f?)](https://2022.adventjs.dev/es"/>
 </div>
 
 <div align="center">
