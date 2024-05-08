@@ -12,6 +12,9 @@
     <h3> 🎁 24 days - 24 coding challenges 🎁</h3>
 </div>
 
+
+Technical challenge that lasts throughout the month of December alluding to the Christmas holiday. From the 1st to the 24th of December, every day we present a new challenge designed based on the Christmas theme with different levels of difficulty that you will be able to solve using JavaScript or TypeScript.
+
 ##
 
 ### 🎄 AdventJS Christmas 2022 🎄
