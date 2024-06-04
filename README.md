@@ -12,13 +12,17 @@
     <h3> 🎁 24 days - 24 coding challenges 🎁</h3>
 </div>
 
+###
+
+Technical challenge that lasts throughout the month of December alluding to the Christmas holiday. From the 1st to the 24th of December, every day we present a new challenge designed based on the Christmas theme with different levels of difficulty that you will be able to solve using JavaScript or TypeScript.
+
 ##
 
 ### 🎄 AdventJS Christmas 2022 🎄
 
 <b>Difficulty: </b> 🟢 Easy | 🟠 Medium | 🔴 Hard
 
-[![](https://img.shields.io/badge/Website-Adventjs.2022-fdc43f?)](https://2022.adventjs.dev/es)
+[![](https://img.shields.io/badge/Website-Adventjs_2022-fdc43f?)](https://2022.adventjs.dev/es)
 
 <details hide>
 
@@ -59,7 +63,7 @@
 
 <b>Difficulty: </b> 🟢 Easy | 🟠 Medium | 🔴 Hard
 
-[![](https://img.shields.io/badge/Website-Adventjs.2023-fdc43f?)](https://adventjs.dev/)
+[![](https://img.shields.io/badge/Website-Adventjs_2023-fdc43f?)](https://adventjs.dev/)
 
 <details hide>
 
